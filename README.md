@@ -42,5 +42,3 @@ This project analyzes plastic recycling data from Indian states to identify regi
 ## 📎 References
 - [Kaggle Datasets](https://www.kaggle.com/datasets) (for structure inspiration)
 - [scikit-learn documentation](https://scikit-learn.org/stable/)
-- [Kaggle Datasets](https://www.kaggle.com/datasets) (for structure inspiration)
-- [scikit-learn documentation](https://scikit-learn.org/stable/)
